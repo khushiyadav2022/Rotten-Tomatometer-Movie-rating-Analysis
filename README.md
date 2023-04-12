@@ -2,7 +2,7 @@
 "From Hollywood blockbusters to indie gems, we rate them all - Find out which films are Certified Fresh on Rotten Tomatoes!"
 
 **Tomatometer Movies Ratings**<br>
-[Presentation]()<br>
+[Presentation](https://github.com/khushiyadav2022/Rotten-Tomatometer-Movie-rating-Analysis/blob/fe29198a9cff0e9dc733260aaae850a0b233f5aa/Rotten%20tomatometer%20movie%20rating.pdf)<br>
 [Excel](https://github.com/khushiyadav2022/Rotten-Tomatometer-Movie-rating-Analysis/blob/4faff62f1c7c49703fa7a4651953a79576e1509a/Rotten%20Tomatoes%20Movies%20Dataset.xlsx)
 
 **Summary:**<br>
