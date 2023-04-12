@@ -2,8 +2,8 @@
 "From Hollywood blockbusters to indie gems, we rate them all - Find out which films are Certified Fresh on Rotten Tomatoes!"
 
 **Tomatometer Movies Ratings**<br>
-[Presentation]()
-[Excel]()
+[Presentation]()<br>
+[Excel](https://github.com/khushiyadav2022/Rotten-Tomatometer-Movie-rating-Analysis/blob/4faff62f1c7c49703fa7a4651953a79576e1509a/Rotten%20Tomatoes%20Movies%20Dataset.xlsx)
 
 **Summary:**<br>
 This report analyzes a dataset containing ratings and reviews for 15,000+ movies reviewed by Rotten Tomatoes. The dataset includes film details, featured reviews, "Tomatometer" status, and audience ratings. The analysis reveals insights about the distribution of ratings, genres, studios, and release dates, and discrepancies between Tomatometer ratings and audience ratings. The report concludes with recommendations for studios, filmmakers, and critics.
